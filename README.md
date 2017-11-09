@@ -1,2 +1,3 @@
-##Website of Taehoon Kim
+Website of Taehoon Kim
+
 Based on jekyll
