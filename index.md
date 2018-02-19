@@ -1,5 +1,7 @@
 ## Taehoon Kim's webpage
 
+![Photo]({{"image/taehoon.JPG"}})
+
 Ph.D. Student in School of Computing KAIST
 Computer Architecture Lab.
 
