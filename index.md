@@ -17,6 +17,7 @@ I am interested in emerging memory systems and hardware security. I have been wo
 
 ### Publication
 
+- **Taehoon Kim**, and Joongun Park, Jaewook Woo, Seungheun Jeon, and Jaehyuk Huh, "Secure In-memory Key-Value Storage with SGX (Poster)", The 9th ACM Symposium on Cloud Computing(**SoCC**), October 2018
 - Sekwon Kim, Seonyoung Lee, **Taehoon Kim**, and Jaehyuk Huh, "Transparent Dual Memory Compression Architecture", The 26th International Conference on Parallel Architectures and Compilation Techniques(**PACT**), September 2017
 - Junghoon Lee, **Taehoon Kim**, and Jaehyuk Huh, "Dynamic Prefetcher Reconfiguration for Diverse Memory Architectures", The 34th IEEE International Conference on Computer Design(**ICCD**), October 2016
 - Junghoon Lee, **Taehoon Kim**, and Jaehyuk Huh, "Reducing the Memory Bandwidth Overheads of Hardware Security Support for Multi-core Processors", IEEE Transactions on Computers(**TC**) 65 (11), November 2016
