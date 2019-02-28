@@ -24,6 +24,9 @@ I am interested in emerging memory systems and hardware security. I have been wo
 - Junghoon Lee, **Taehoon Kim**, and Jaehyuk Huh, "Dynamic Prefetcher Reconfiguration for Diverse Memory Architectures", The 34th IEEE International Conference on Computer Design(**ICCD**), October 2016
 - Junghoon Lee, **Taehoon Kim**, and Jaehyuk Huh, "Reducing the Memory Bandwidth Overheads of Hardware Security Support for Multi-core Processors", IEEE Transactions on Computers(**TC**) 65 (11), November 2016
 
+### Internship
+- Microsoft Research Asia, Sep. 2017 ~ Dec. 2017 (Mentor: [Jinglei Ren](https://people.persper.org/jinglei))
+
 ### Education
 
 - Ph.D. student in School of Computing, KAIST, Feb. 2014 - present (Advisor: [Jaehyuk Huh](http://calab.kaist.ac.kr:8080/~jhuh))
