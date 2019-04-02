@@ -17,7 +17,7 @@ I am interested in emerging memory systems and hardware security. I have been wo
 
 ### Publication
 
-- **Taehoon Kim**, Joongun Park, Jaewook Woo, Seungheun Jeon, Jaehyuk Huh, "ShieldStore: Shielded In-memory Key-Value Stroage with SGX", accepted for The European Conference on Computer Systems(**EuroSys**), March 2019
+- **Taehoon Kim**, Joongun Park, Jaewook Woo, Seungheun Jeon, Jaehyuk Huh, "ShieldStore: Shielded In-memory Key-Value Stroage with SGX", The 14th European Conference on Computer Systems(**EuroSys**), March 2019
 - Insu Jang, Adrian Tang, **Taehoon Kim**, Simha Sethumadhavan, Jaehyuk Huh, "Heterogeneous Isolated Execution for Commodity GPUs", accepted for The International Conference on Architectural Support for Programming Languages and Operating Systems(**ASPLOS**), April 2019
 - **Taehoon Kim**, and Joongun Park, Jaewook Woo, Seungheun Jeon, and Jaehyuk Huh, "Secure In-memory Key-Value Storage with SGX (Poster)", The 9th ACM Symposium on Cloud Computing(**SoCC**), October 2018
 - Sekwon Kim, Seonyoung Lee, **Taehoon Kim**, and Jaehyuk Huh, "Transparent Dual Memory Compression Architecture", The 26th International Conference on Parallel Architectures and Compilation Techniques(**PACT**), September 2017
