@@ -2,8 +2,7 @@
 
 ![Photo]({{"image/taehoon.JPG"}})
 
-Ph.D. Student in School of Computing KAIST
-Computer Architecture Lab.
+Researcher at ETRI (Electronics and Telecommunications Research Institute)
 
 ### Contact Information
 
@@ -29,7 +28,7 @@ I am interested in emerging memory systems and hardware security. I have been wo
 
 ### Education
 
-- Ph.D. student in School of Computing, KAIST, Feb. 2014 - present (Advisor: [Jaehyuk Huh](http://calab.kaist.ac.kr:8080/~jhuh))
+- Ph.D. student in School of Computing, KAIST, Feb. 2014 - Feb. 20202 (Advisor: [Jaehyuk Huh](http://calab.kaist.ac.kr:8080/~jhuh))
 - M.S. in Department of Computer Science, KAIST, Feb. 2014 (Advisor: [Jaehyuk Huh](http://calab.kaist.ac.kr:8080/~jhuh))
 - B.S. in Department of Computer Science, Sogang University, Feb. 2012
 
