@@ -6,9 +6,7 @@ Researcher at ETRI (Electronics and Telecommunications Research Institute)
 
 ### Contact Information
 
-[Lab homepage](http://calab.kaist.ac.kr)
-[E-mail](mailto:thkim@calab.kaist.ac.kr)
-
+[E-mail](mailto:taehoon.kim@etri.re.kr)
 
 ### Research Interest
 
@@ -16,6 +14,7 @@ I am interested in emerging memory systems and hardware security. I have been wo
 
 ### Publication
 
+- Joongun Park, Naegyeong Kang, **Taehoon Kim**, Youngjin Kwon, Jaehyuk Huh, "Nested Enclave: Supporting Fine-grained Hierarchical Isolation with SGX", accepted for The International Symposium on Computer Architecture (**ISCA**) 
 - Insu Jang, Adrian Tang, **Taehoon Kim**, Simha Sethumadhavan, Jaehyuk Huh, "Heterogeneous Isolated Execution for Commodity GPUs", The International Conference on Architectural Support for Programming Languages and Operating Systems(**ASPLOS**), April 2019
 - **Taehoon Kim**, Joongun Park, Jaewook Woo, Seungheun Jeon, Jaehyuk Huh, "ShieldStore: Shielded In-memory Key-Value Stroage with SGX", The 14th European Conference on Computer Systems(**EuroSys**), March 2019
 - **Taehoon Kim**, and Joongun Park, Jaewook Woo, Seungheun Jeon, and Jaehyuk Huh, "Secure In-memory Key-Value Storage with SGX (Poster)", The 9th ACM Symposium on Cloud Computing(**SoCC**), October 2018
