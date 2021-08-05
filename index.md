@@ -14,7 +14,7 @@ I am interested in emerging memory systems and hardware security. I have been wo
 
 ### Publication
 
-- Joongun Park, Naegyeong Kang, **Taehoon Kim**, Youngjin Kwon, Jaehyuk Huh, "Nested Enclave: Supporting Fine-grained Hierarchical Isolation with SGX", accepted for The International Symposium on Computer Architecture (**ISCA**) 
+- Joongun Park, Naegyeong Kang, **Taehoon Kim**, Youngjin Kwon, Jaehyuk Huh, "Nested Enclave: Supporting Fine-grained Hierarchical Isolation with SGX", The International Symposium on Computer Architecture (**ISCA**), May 2020 
 - Insu Jang, Adrian Tang, **Taehoon Kim**, Simha Sethumadhavan, Jaehyuk Huh, "Heterogeneous Isolated Execution for Commodity GPUs", The International Conference on Architectural Support for Programming Languages and Operating Systems(**ASPLOS**), April 2019
 - **Taehoon Kim**, Joongun Park, Jaewook Woo, Seungheun Jeon, Jaehyuk Huh, "ShieldStore: Shielded In-memory Key-Value Stroage with SGX", The 14th European Conference on Computer Systems(**EuroSys**), March 2019
 - **Taehoon Kim**, and Joongun Park, Jaewook Woo, Seungheun Jeon, and Jaehyuk Huh, "Secure In-memory Key-Value Storage with SGX (Poster)", The 9th ACM Symposium on Cloud Computing(**SoCC**), October 2018
@@ -27,7 +27,7 @@ I am interested in emerging memory systems and hardware security. I have been wo
 
 ### Education
 
-- Ph.D. student in School of Computing, KAIST, Feb. 2014 - Feb. 20202 (Advisor: [Jaehyuk Huh](http://calab.kaist.ac.kr:8080/~jhuh))
+- Ph.D. student in School of Computing, KAIST, Feb. 2014 - Feb. 2020 (Advisor: [Jaehyuk Huh](http://calab.kaist.ac.kr:8080/~jhuh))
 - M.S. in Department of Computer Science, KAIST, Feb. 2014 (Advisor: [Jaehyuk Huh](http://calab.kaist.ac.kr:8080/~jhuh))
 - B.S. in Department of Computer Science, Sogang University, Feb. 2012
 
