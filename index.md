@@ -14,7 +14,7 @@ I am interested in emerging memory systems and hardware security. I have been wo
 
 ### Publication
 
-- **Taehoon Kim**, Kwangwon Koh, Changdae Kim, Eunji Pak, Yeonjeong Jeong, and Sang-Hoon Kim, "DEHype: Retrofitting Hypervisors for a Resource-Disaggregated Environment", to appear at the IEEE International Conference on Cluster Computing (**Cluster**), Oct 2023
+- **Taehoon Kim**, Kwangwon Koh, Changdae Kim, Eunji Pak, Yeonjeong Jeong, and Sang-Hoon Kim, "DEHype: Retrofitting Hypervisors for a Resource-Disaggregated Environment", to appear at the IEEE International Conference on Cluster Computing (**CLUSTER**), October 2023
 - Changdae Kim, Kwangwon Koh, **Taehoon Kim**, Daegyu Han, and Jiwon Seo, "BWA-MEM-SCALE: Accelerating Genome Sequence Mapping on Commodity Servers", International Conference on Parallel Processing (**ICPP**), August 2022, **Best Paper Award**
 - Joongun Park, Naegyeong Kang, **Taehoon Kim**, Youngjin Kwon, Jaehyuk Huh, "Nested Enclave: Supporting Fine-grained Hierarchical Isolation with SGX", The International Symposium on Computer Architecture (**ISCA**), May 2020 
 - Insu Jang, Adrian Tang, **Taehoon Kim**, Simha Sethumadhavan, Jaehyuk Huh, "Heterogeneous Isolated Execution for Commodity GPUs", The International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), April 2019
