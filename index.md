@@ -14,8 +14,9 @@ I am interested in emerging memory systems and hardware security. I have been wo
 
 ### Publication
 
-- Joongun Park, Seunghyo Kang, Sanghyeon Lee, **Taehoon Kim**, Jongse Park, Youngjin Kwon, and Jaehyuk Huh, "Hardware Hardened Sandbox Enclaves for Trusted Serverless Computing," ACM Transactions on Architecture and Code Optimization (**TACO**)
-- **Taehoon Kim**, Kwangwon Koh, Changdae Kim, Eunji Pak, Yeonjeong Jeong, and Sang-Hoon Kim, "DEHype: Retrofitting Hypervisors for a Resource-Disaggregated Environment," to appear at the IEEE International Conference on Cluster Computing (**Cluster**), Oct 2023
+- Changdae Kim, Daegun Yoon, **Taehoon Kim**, Yeonjeong Jeong, Kangho Kim, Kwangwon Koh, and Eunji Pak, "Analog Computing for AI Sometimes Needs Correction by Digital Computing: Why and When," NeurIPS 2024 Workshop Machine Learning with new Computing Paradigms (**MLNCP Workshop**), Dec 2024
+- Joongun Park, Seunghyo Kang, Sanghyeon Lee, **Taehoon Kim**, Jongse Park, Youngjin Kwon, and Jaehyuk Huh, "Hardware Hardened Sandbox Enclaves for Trusted Serverless Computing," ACM Transactions on Architecture and Code Optimization (**TACO**), Jan 2024
+- **Taehoon Kim**, Kwangwon Koh, Changdae Kim, Eunji Pak, Yeonjeong Jeong, and Sang-Hoon Kim, "DEHype: Retrofitting Hypervisors for a Resource-Disaggregated Environment," The IEEE International Conference on Cluster Computing (**Cluster**), Oct 2023
 - Changdae Kim, Kwangwon Koh, **Taehoon Kim**, Daegyu Han, and Jiwon Seo, "BWA-MEM-SCALE: Accelerating Genome Sequence Mapping on Commodity Servers," International Conference on Parallel Processing (**ICPP**), August 2022, **Best Paper Award**
 - Joongun Park, Naegyeong Kang, **Taehoon Kim**, Youngjin Kwon, and Jaehyuk Huh, "Nested Enclave: Supporting Fine-grained Hierarchical Isolation with SGX," The International Symposium on Computer Architecture (**ISCA**), May 2020 
 - Insu Jang, Adrian Tang, **Taehoon Kim**, Simha Sethumadhavan, and Jaehyuk Huh, "Heterogeneous Isolated Execution for Commodity GPUs," The International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), April 2019
